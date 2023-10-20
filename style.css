@@ -49,7 +49,7 @@ h1 {
     object-fit: cover;
 }
 .video-container:after {
-    content: '';
+    content: "";
     z-index: 1;
     height: 100%;
     width: 100%;
